@@ -1,16 +1,14 @@
 <!DOCTYPE html>
-<html>
+    <html>
 <head>
-<metacharset="utf-8"/>
+<meta charset="UTF-8">
 <title>premier travail</title>
 </head>
-<body rightmargin="200" leftmargin="200" topmargin="50">
-
-   <h1><center>Contenu projet “Structurer un contenu HTML"</center></h1> 
+<body>
 
     <h2>Page 1 : Histoire d’Internet </h2>
     
-    <p> <align="justify"> <strong> L’​histoired'Internet​ </strong> remonte au développement des premiers réseaux de télécommunication. </br>
+    <p>  <strong> L’​histoired'Internet​ </strong> remonte au développement des premiers réseaux de télécommunication.
     L’idée d’un réseau informatique, permettant aux utilisateurs de différents ordinateurs decommuniquer, 
     se développa par de nombreuses étapes successives. 
     La somme de tous cesdéveloppements conduisit au « réseau des réseaux » 
@@ -18,12 +16,12 @@
     Il est le fruit à la fois de développementstechnologiques et du regroupement 
     d’infrastructures réseau existantes et de systèmes detélécommunications. </P>
     
-    <p> <align="justify"> Deux phases d'accélérations se produisirent : à la fin des années 1960-1970, 
+    <p>  Deux phases d'accélérations se produisirent : à la fin des années 1960-1970, 
     l’applicationpratique des concepts évoqués à la fin des années 1950 et ensuite, 
     dans les années 1990,lorsque la popularisation des fondements de l’Internet 
-     moderne passa par l’apparition du WorldWide Web ​<a href="pageash2.html">​[lien vers la page World Wide Web]​</a>​. </p>
+     moderne passa par l’apparition du WorldWide Web ​<a href="PAGEASH2.html">​[lien vers la page World Wide Web]​</a>​. </p>
      
-     <p> <align="justify">L’infrastructure d’Internet 
+     <p>L’infrastructure d’Internet 
      se répandit autour du monde pour créer le large réseau mondiald’ordinateurs que nous connaissons aujourd’hui. 
      Il se répandit au travers des pays occidentauxpuis frappa à la porte des pays en voie de développement, 
      créant ainsi un accès mondial àl’information et aux communications sans précédent ainsi qu’une fracture numérique. 
@@ -34,102 +32,102 @@
      Année
      Évènement
 
-<table border="1px">
-    <tr bgcolor= grey>   
+<table>
+    <tr>   
     <td><strong>Année</strong></td>
-    <td><strong><center>Evenement</center></strong></td>
+    <td><strong>Evenement</strong></td>
 </tr>
 
-<tr bgcolor>   
+<tr>   
     <td><strong>1952</strong></td>
     <td> Semi-Automatic Ground Environment​ : Système d'armes mettant en réseau 40ordinateurs à autant de radars.
     </td>
 </tr>
 
-<tr bgcolor>   
+<tr>   
     <td><strong>1958</strong></td>
     <td> Les​ Laboratoires Bell​ créent le premier Modem permettant de transmettre desdonnées binaires sur une simple ligne téléphonique.
     </td>
 </tr>
 
-<tr bgcolor>   
+<tr>   
     <td><strong>1961</strong></td>
     <td> Leonard Kleinrock​ du​ Massachusetts Institute of Technology​ publie une premièrethéorie sur l'utilisation de la​ commutation de paquets​ pour transférer des données.
     </td>
 </tr>
 
-<tr bgcolor>   
+<tr>   
     <td><strong>1962</strong></td>
     <td> Début de la recherche par​ DARPA​, une agence du​ département de la Défenseaméricain​, où​ J.C.R. Licklider​ défend avec succès ses idées relatives à un réseauglobal d'ordinateurs.
     </td>
 </tr>
-<tr bgcolor>   
+<tr>   
     <td><strong>1964</strong></td>
     <td>   Leonard Kleinrock​ du MIT publie un livre sur la communication par​ commutationde paquets​ pour réaliser un réseau. </td>
 </tr>
-<tr bgcolor>   
+<tr>   
     <td><strong>1967</strong></td>
     <td>  Première conférence sur​ ARPANET​.1969Création du​ Network Working Group​ et connexion des premiers ordinateurs entrequatre universités américaines via l'​Interface Message Processor​ de​ LeonardKleinrock​.</td>
 </tr>
-<tr bgcolor>   
+<tr>   
     <td><strong>1971</strong></td>
     <td> 23 ordinateurs sont reliés sur ARPANET. Envoi du premier courriel par​ RayTomlinson​.
     </td>
 </tr>
-<tr bgcolor>   
+<tr>   
     <td><strong>1972</strong></td>
     <td>  Naissance de l'​International Network Working Group​, organisme chargé de lagestion d’Internet.1973L'​Angleterre​ et la​ Norvège​ rejoignent le réseau​ ARPANET​ avec chacune unordinateur.
     </td>
 </tr>
-<tr bgcolor>   
+<tr>   
     <td><strong>1973</strong></td>
     <td> Définition du protocole​ TCP/IP​ : TCP (​Transmission Control Protocol​) et IP(​Internet Protocol​). </td>
 </tr>
-<tr bgcolor>   
+<tr>   
     <td><strong>1984</strong></td>
     <td>  1000 ordinateurs connectés.198710 000 ordinateurs connectés.</td>
 </tr>
-<tr bgcolor>   
+<tr>   
     <td><strong>1989</strong></td>
     <td>   100 000 ordinateurs inter-connectés.1990Disparition d'​ARPANET​ (démilitarisé). Remplacé par Internet (civil).</td>
 </tr>
-<tr bgcolor>   
+<tr>   
     <td><strong>1990</strong></td>
     <td>  Annonce publique du​ World Wide Web​ (​Tim Berners-Lee​).</td>
 </tr>
-<tr bgcolor>   
+<tr>   
     <td><strong>1992</strong></td>
     <td> 1 000 000 ordinateurs connectés.1993Apparition du​ Navigateur web​ NCSA Mosaic​.
     </td>
 </tr>
-<tr bgcolor>   
+<tr>   
     <td><strong>1996</strong></td>
     <td> 36 000 000 ordinateurs connectés.2000Explosion de la​ bulle Internet​ (368 540 000 ordinateurs connectés)  </td>
 </tr>
 
 
-<tr bgcolor>   
+<tr>   
     <td><strong>2000</strong></td>
     <td> Explosion de la​ bulle Internet​ (368 540 000 ordinateurs connectés) </td>
 </tr>
 
 
-<tr bgcolor>   
+<tr >   
     <td><strong>2014</strong></td>
     <td> La barre du milliard de sites web est franchie </td>
 </tr>
 
 </table>     
-<p><center><img src="IMGO.jpg" width = 900px height= 500px alt="Logo du web" align ="center"/></center> 
+<p><img src="IMGO.jpg" width = 900 height= 500 alt="Logo du web" />  </p>
 
 
 
-   <p>  <figcaption>Fig.1 - Le premier​ serveur web​, actuellement au musée du​ CERN​, étiqueté <EM>« ​This machine is aserver. DO NOT POWER IT DOWN!!​»</figcaption>
-   </EM></p></p>
+   <p>  Fig.1 - Le premier​ serveur web​, actuellement au musée du​ CERN​, étiqueté <EM>« ​This machine is aserver. DO NOT POWER IT DOWN!!​»
+   </EM></p>
 
      <h3> Protocole TCP/IP  </h3> 
      
-     <p> <align="justify">L'abondante diversité des méthodes de communications réseau amena un besoind'uniformisation. 
+     <p>L'abondante diversité des méthodes de communications réseau amena un besoind'uniformisation. 
      Robert E. Kahn recruta Vinton G. Cerf de l'université Stanford dans le but detravailler 
      ensemble sur ce problème. En 1973, ils avaient déjà réalisé une reformulationprofonde, 
      dans laquelle les différences entre les protocoles s'estompaient par l'utilisation 
@@ -137,7 +135,7 @@
      commeavec l'ARPANET, les hôtes en étaient maintenant responsables. Vinton G. Cerf attribua àHubert 
      Zimmermann et Louis Pouzin (développeurs du réseau Cyclades) un important travail dedéveloppement </p>
 
-     <p> <align="justify"> Avec le rôle du réseau physique réduit à son strict minimum, il devint alors possible defusionner 
+     <p>Avec le rôle du réseau physique réduit à son strict minimum, il devint alors possible defusionner 
      à peu près tout type de réseau sans tenir compte de leurs caractéristiques et ainsirésoudre le problème 
      que s'était posé Robert E. Kahn à ses débuts. La DARPA accepta definancer le développement du logiciel 
      prototype, et après plusieurs années de travail, lapremière démonstration quelque peu rustique de ce 
