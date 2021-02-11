@@ -1,5 +1,5 @@
     <!DOCTYPE html>
-    <html>
+    <html lang="fr">
     <head>
     <meta charset="utf-8"/>
     <title>premier travail</title>
@@ -50,7 +50,7 @@
     <H4> La première page Web </H4>
         
         <P>Voici le code de la première page Web : </P>
-        &lt; HEADER &gt;
+        <pre>&lt; HEADER &gt;
         &lt; TITLE &gt;The World Wide Web project&lt; /TITLE &gt;  
         &lt; NEXTID N="55" &gt;
         &lt; /HEADER &gt;
@@ -116,7 +116,7 @@
         NAME=49 HREF="LineMode/Defaults/Distribution.html" &gt;
         anonymous FTP&lt; /A &gt; , etc.&lt; /A &gt;
         &lt; /DL &gt;
-        &lt; /BODY &gt;
+        &lt; /BODY &gt; </pre>
         
 
             
